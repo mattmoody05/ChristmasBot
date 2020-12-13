@@ -1,1 +1,2 @@
-for obvious reasons, I am not able to upload the songs onto here, but you could provide them yourself, if you have acces to them :)
+for obvious reasons, I am not able to upload the songs onto here, but you could provide them yourself, if you have access to them :)
+(to add your own songs, the app.py script would have to be edited, it is pretty clear where you need to insert the song names)
