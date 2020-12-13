@@ -6,7 +6,6 @@ IMAGE = "https://i.imgur.com/1kriI0K.jpg"
 
 # discord imports
 import discord
-from discord import colour
 from discord.ext import commands
 
 # other imports
